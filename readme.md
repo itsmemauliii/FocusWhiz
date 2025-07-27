@@ -46,7 +46,7 @@
 
 ## 📸 Preview
 
-![FocusWhiz UI]()
+![FocusWhiz UI](https://github.com/itsmemauliii/FocusWhiz/blob/main/FocusWhiz%20UI.png)
 
 ---
 
