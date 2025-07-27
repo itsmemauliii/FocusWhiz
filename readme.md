@@ -30,12 +30,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> 🔗 Try it now on Hugging Face → [FocusWhiz](https://huggingface.co/spaces/itsmemauli/focuswhiz)
-
----
-
 ## 📈 Skills Gained
 
 - Basic to intermediate **spaCy** pipeline usage  
