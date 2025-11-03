@@ -10,7 +10,7 @@
 
 **FocusWhiz** is a lightweight NLP-based productivity assistant that detects negative self-talk, excuses, or distraction patterns in text. It responds with helpful, motivating feedback to help users stay aligned with their goals.
 
-> Think of it as a digital accountability partner – built with words.
+> Think of it as a digital accountability partner, built with words.
 
 ---
 
